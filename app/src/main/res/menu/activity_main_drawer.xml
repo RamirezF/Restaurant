@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_menu_home"
+            android:title="@string/menu_home" />
+    </group>
+    <item android:title="Carta">
+        <menu>
+            <item
+                android:id="@+id/pizzaFragment"
+                android:icon="@drawable/ic_menu_pizza"
+                android:title="@string/menu_gallery" />
+            <item
+                android:id="@+id/nav_slideshow"
+                android:icon="@drawable/ic_menu_pastas"
+                android:title="@string/menu_slideshow" />
+            <item
+                android:id="@+id/extrasFragment"
+                android:icon="@drawable/ic_menu_extras"
+                android:title="@string/menu_extras" />
+            <item
+                android:id="@+id/nav_gallery"
+                android:icon="@drawable/ic_menu_promo"
+                android:title="@string/menu_promocion" />
+        </menu>
+    </item>
+    <item android:title="@string/maps">
+        <menu>
+            <item
+                android:id="@+id/mapsFragment"
+                android:icon="@drawable/ic_menu_map"
+                android:title="@string/menu_ubicacion" />
+        </menu>
+    </item>
+
+    <item android:title="Login">
+        <menu>
+            <item
+                android:id="@+id/loginActivity"
+                android:icon="@drawable/ic__menu_login"
+                android:title="@string/menu_login" />
+        </menu>
+    </item>
+
+
+
+</menu>

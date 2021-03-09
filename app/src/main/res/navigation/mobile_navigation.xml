@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.ramirezf.restaurant.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_gallery"
+        android:name="com.ramirezf.restaurant.ui.promociones.PromocionesFragment"
+        android:label="@string/menu_gallery"
+        tools:layout="@layout/fragment_gallery" />
+
+    <fragment
+        android:id="@+id/nav_slideshow"
+        android:name="com.ramirezf.restaurant.ui.pastas.SlideshowFragment"
+        android:label="@string/menu_slideshow"
+        tools:layout="@layout/fragment_slideshow" />
+    <fragment
+        android:id="@+id/pizzaFragment"
+        android:name="com.ramirezf.restaurant.ui.pizzas.PizzasFragment"
+        android:label="@string/menu_gallery"
+        tools:layout="@layout/fragment_pizzas" />
+    <fragment
+        android:id="@+id/mapsFragment"
+        android:name="com.ramirezf.restaurant.ui.mapa.MapsFragment"
+        android:label="@string/menu_ubicacion"
+        tools:layout="@layout/fragment_maps" />
+    <fragment
+        android:id="@+id/extrasFragment"
+        android:name="com.ramirezf.restaurant.ui.extras.ExtrasFragment"
+        android:label="@string/menu_extras"
+        tools:layout="@layout/fragment_extras" />
+    <activity
+        android:id="@+id/loginActivity"
+        android:name="com.ramirezf.restaurant.activities.LoginActivity"
+        android:label="activity_login"
+        tools:layout="@layout/activity_login" />
+</navigation>

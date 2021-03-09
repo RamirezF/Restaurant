@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Restaurant/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Restaurant/app/src/main/res/drawable/activity_main_drawer.xml" value="0.26927083333333335" />
+        <entry key="..\:/Restaurant/app/src/main/res/drawable/activity_main_usuarios_drawer.xml" value="0.26927083333333335" />
+        <entry key="..\:/Restaurant/app/src/main/res/drawable/bg_drawer.xml" value="0.26927083333333335" />
+        <entry key="..\:/Restaurant/app/src/main/res/drawable/bg_drawer_head.xml" value="0.26927083333333335" />
+        <entry key="..\:/Restaurant/app/src/main/res/drawable/btn_back.xml" value="0.26927083333333335" />
+        <entry key="..\:/Restaurant/app/src/main/res/drawable/btn_green.xml" value="0.26927083333333335" />
+        <entry key="..\:/Restaurant/app/src/main/res/drawable/btn_home.xml" value="0.26927083333333335" />
+        <entry key="..\:/Restaurant/app/src/main/res/drawable/btn_home_default.xml" value="0.26927083333333335" />
+        <entry key="..\:/Restaurant/app/src/main/res/drawable/btn_home_presset.xml" value="0.26927083333333335" />
+        <entry key="..\:/Restaurant/app/src/main/res/drawable/btn_pizza_add.xml" value="0.17760416666666667" />
+        <entry key="..\:/Restaurant/app/src/main/res/drawable/btn_pizza_add2.xml" value="0.17760416666666667" />
+        <entry key="..\:/Restaurant/app/src/main/res/drawable/btn_red.xml" value="0.26927083333333335" />
+        <entry key="..\:/Restaurant/app/src/main/res/drawable/edit_round.xml" value="0.8" />
+        <entry key="..\:/Restaurant/app/src/main/res/drawable/ic__menu_login.xml" value="0.26927083333333335" />
+        <entry key="..\:/Restaurant/app/src/main/res/drawable/ic_button_green_pressed.xml" value="0.26927083333333335" />
+        <entry key="..\:/Restaurant/app/src/main/res/drawable/ic_button_red_pressed.xml" value="0.264" />
+        <entry key="..\:/Restaurant/app/src/main/res/drawable/ic_delivery_02.xml" value="0.26927083333333335" />
+        <entry key="..\:/Restaurant/app/src/main/res/drawable/ic_extras.xml" value="0.26927083333333335" />
+        <entry key="..\:/Restaurant/app/src/main/res/drawable/ic_go.xml" value="0.26927083333333335" />
+        <entry key="..\:/Restaurant/app/src/main/res/drawable/ic_home.xml" value="0.26927083333333335" />
+        <entry key="..\:/Restaurant/app/src/main/res/drawable/ic_launcher2_background.xml" value="0.26927083333333335" />
+        <entry key="..\:/Restaurant/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Restaurant/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Restaurant/app/src/main/res/drawable/ic_map_24.xml" value="0.176" />
+        <entry key="..\:/Restaurant/app/src/main/res/drawable/ic_mapa.xml" value="0.26927083333333335" />
+        <entry key="..\:/Restaurant/app/src/main/res/drawable/ic_menu_extras.xml" value="0.26927083333333335" />
+        <entry key="..\:/Restaurant/app/src/main/res/drawable/ic_menu_home.xml" value="0.26927083333333335" />
+        <entry key="..\:/Restaurant/app/src/main/res/drawable/ic_menu_map.xml" value="0.26927083333333335" />
+        <entry key="..\:/Restaurant/app/src/main/res/drawable/ic_menu_pastas.xml" value="0.26927083333333335" />
+        <entry key="..\:/Restaurant/app/src/main/res/drawable/ic_menu_pizza.xml" value="0.26927083333333335" />
+        <entry key="..\:/Restaurant/app/src/main/res/drawable/ic_menu_pizza_100.xml" value="0.26927083333333335" />
+        <entry key="..\:/Restaurant/app/src/main/res/drawable/ic_menu_promo.xml" value="0.1" />
+        <entry key="..\:/Restaurant/app/src/main/res/drawable/ic_pizza.xml" value="0.26927083333333335" />
+        <entry key="..\:/Restaurant/app/src/main/res/drawable/ic_promocion.xml" value="0.26927083333333335" />
+        <entry key="..\:/Restaurant/app/src/main/res/drawable/ic_spaguetti.xml" value="0.26927083333333335" />
+        <entry key="..\:/Restaurant/app/src/main/res/drawable/ic_user.xml" value="0.26927083333333335" />
+        <entry key="..\:/Restaurant/app/src/main/res/drawable/side_nav_bar.xml" value="0.26927083333333335" />
+        <entry key="..\:/Restaurant/app/src/main/res/layout/activity_can_extra.xml" value="0.18697916666666667" />
+        <entry key="..\:/Restaurant/app/src/main/res/layout/activity_can_pasta.xml" value="0.253125" />
+        <entry key="..\:/Restaurant/app/src/main/res/layout/activity_can_pizza.xml" value="0.253125" />
+        <entry key="..\:/Restaurant/app/src/main/res/layout/activity_can_promo.xml" value="0.253125" />
+        <entry key="..\:/Restaurant/app/src/main/res/layout/activity_cantidad.xml" value="0.536" />
+        <entry key="..\:/Restaurant/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Restaurant/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Restaurant/app/src/main/res/layout/activity_register.xml" value="0.253125" />
+        <entry key="..\:/Restaurant/app/src/main/res/layout/activity_splash.xml" value="0.253125" />
+        <entry key="..\:/Restaurant/app/src/main/res/layout/app_bar_main.xml" value="0.253125" />
+        <entry key="..\:/Restaurant/app/src/main/res/layout/content_main.xml" value="0.253125" />
+        <entry key="..\:/Restaurant/app/src/main/res/layout/fragment_extras.xml" value="0.253125" />
+        <entry key="..\:/Restaurant/app/src/main/res/layout/fragment_gallery.xml" value="0.253125" />
+        <entry key="..\:/Restaurant/app/src/main/res/layout/fragment_home.xml" value="0.536" />
+        <entry key="..\:/Restaurant/app/src/main/res/layout/fragment_maps.xml" value="0.24923076923076923" />
+        <entry key="..\:/Restaurant/app/src/main/res/layout/fragment_pizzas.xml" value="0.253125" />
+        <entry key="..\:/Restaurant/app/src/main/res/layout/fragment_promociones.xml" value="0.8" />
+        <entry key="..\:/Restaurant/app/src/main/res/layout/fragment_slideshow.xml" value="0.253125" />
+        <entry key="..\:/Restaurant/app/src/main/res/layout/nav_header_main.xml" value="0.6" />
+        <entry key="..\:/Restaurant/app/src/main/res/layout/recycler_view_menu.xml" value="0.4" />
+        <entry key="..\:/Restaurant/app/src/main/res/layout/recycler_view_promoc.xml" value="0.24923076923076923" />
+        <entry key="..\:/Restaurant/app/src/main/res/menu/activity_main_drawer.xml" value="0.6" />
+        <entry key="..\:/Restaurant/app/src/main/res/menu/main.xml" value="0.253125" />
+        <entry key="..\:/Restaurant/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.26927083333333335" />
+        <entry key="..\:/Restaurant/app/src/main/res/mipmap-anydpi-v26/ic_launcher1.png.xml" value="0.24427083333333333" />
+        <entry key="..\:/Restaurant/app/src/main/res/mipmap-anydpi-v26/ic_launcher2.xml" value="0.26927083333333335" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
